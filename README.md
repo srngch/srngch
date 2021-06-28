@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![sarchoi's 42 stats](https://badge42.herokuapp.com/api/stats/sarchoi?privacyName=true)](https://github.com/srngch)
 -->
+
+
+
