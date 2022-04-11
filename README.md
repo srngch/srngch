@@ -7,7 +7,7 @@
 ### 📖
 - 2021.5 ~ : 42Seoul Cadet
 
-[![sarchoi's 42 stats](https://badge42.herokuapp.com/api/stats/sarchoi?privacyName=true)](https://github.com/srngch)
+[![sarchoi's 42 stats](https://badge42.vercel.app/api/v2/cl1utu8dj001109l64o4hso13/stats?cursusId=21&coalitionId=85)](https://github.com/srngch/42Seoul)
 
 ### 💪
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
