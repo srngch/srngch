@@ -4,7 +4,7 @@
 
 ### 📖
 
-![born2Code](https://img.shields.io/badge/Born2Code-000000.svg?style=for-the-badge&logo=42&logoColor=FFFFFF)
+[![born2Code](https://img.shields.io/badge/Born2Code-000000.svg?style=for-the-badge&logo=42&logoColor=FFFFFF)](https://42seoul.kr)
 
 <sup>2021.5 ~ : 42Seoul Cadet</sup>
 
