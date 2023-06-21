@@ -1,10 +1,11 @@
 ### 🔗
 - [My blog](https://blog.srngch.com)
-- [My TIL Log](https://srngch.github.io)
 
 ### 📖
 
 [![born2Code](https://img.shields.io/badge/Born2Code-000000.svg?style=for-the-badge&logo=42&logoColor=FFFFFF)](https://42seoul.kr)
+
+[@sarchoi](https://profile.intra.42.fr/users/sarchoi)
 
 <sup>2021.5 ~ : 42Seoul Cadet</sup>
 
